@@ -1,3 +1,1 @@
-import uuid
-
-sub_id = uuid.uuid4()
+sub_id = "something from the submodule"
